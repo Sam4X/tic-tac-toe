@@ -1,7 +1,7 @@
 # tic-tac-toe
 3x3 tic-tac-toe game with:
-1) randomization
-2) fixed beginning for player 1/2
+1) Randomization
+2) Fixed beginning for player 1/2
 
 Use this code as a building block of an advanced tic-tac-toe game.
 
